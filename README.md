@@ -20,7 +20,7 @@ Or download the assets for your platform from the
 
 - `Burin.Code.dmg`: the macOS app, signed with a Developer ID and notarized by Apple.
 - `burin-<target>.tar.gz`: the terminal UI for macOS (Apple silicon and Intel) and
-  Linux (x86_64 and arm64).
+  Linux (x86_64 and arm64), plus `burin-x86_64-pc-windows-msvc.zip` for Windows.
 - `release.json`: the manifest. It lists every asset with its SHA-256 and size.
 
 ## Verify a download
